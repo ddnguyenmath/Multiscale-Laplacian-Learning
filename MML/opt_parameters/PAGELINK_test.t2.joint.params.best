@@ -1,0 +1,8 @@
+NN 		150 
+SIGMA 		0.300 
+gamma_A 	1.00e-02 
+gamma_I 	1.00e-01 
+DEGREE 	5 
+coeff 	1.00e+00 
+LapSVM = 4.159
+LapRLS = 4.159

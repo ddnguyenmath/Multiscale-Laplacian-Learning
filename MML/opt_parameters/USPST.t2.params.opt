@@ -1,0 +1,7 @@
+NN 		1 
+SIGMA 		2.000 
+gamma_A 	1.00e-06 
+gamma_I 	1.00e-02 
+DEGREE 	1 
+coeff 	1.00e+02 
+LapSVM_error 	53.276
